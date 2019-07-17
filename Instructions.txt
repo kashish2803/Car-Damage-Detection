@@ -1,0 +1,10 @@
+For running the code to test on sample images..
+run the python file main.py with sample_image_path as the argument
+
+e.g.
+python main.py "path_to_your_image"
+
+
+Requirements:-
+	- Tensorflow
+	- open-cv
